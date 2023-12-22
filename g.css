@@ -1,3 +1,12 @@
+
+OST /api/employee/login HTTP/:
+Content-Type: application/json 
+Host: localhost:8080 
+{
+   "employee_email": "test@test.com",
+   "employee_password": "8HYsy&^uud*7hh"
+}
+
 .body {
       background-color: lightblue;
     }
@@ -12,11 +21,3 @@
       font-size: 20px;
     } 
 
-<style>
-p
- {
-  
-color:
- red;
-}
-</style>
