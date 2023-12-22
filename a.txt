@@ -1,1 +1,9 @@
-This is from a.txt file
+This is from a.txt file 
+How was the day.
+OST /api/employee/login HTTP/1.1
+Content-Type: application/json 
+Host: localhost:8080 
+{
+   "employee_email": "test@test.com",
+   "employee_password": "8HYsy&^uud*7hh"
+}
